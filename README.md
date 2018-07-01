@@ -26,3 +26,5 @@ the coordinates. The first model is a standard CNN while the second model implem
 -------------------------------------------------------------------------
 
 The repository also provides <b>short papers</b> submitted to IEEE ISBI as part of the IDRiD Grand Challenge.
+
+We also developed a Django webserver with a basic user interface to upload and test retinal images on our models. The Django site was hosted on our workstation. View demo video: https://apopli.github.io/dr_demo.mp4
